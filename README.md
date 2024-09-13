@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend.
 - 💞️ I’m looking to collaborate on application-, mobile-, or web-based development, such as backend.
 - 📫 How to reach me: osvaldo23hs@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have enjoyed investing in and learning about stocks since I was 17.
 
 <!---
 A1-D0/A1-D0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
